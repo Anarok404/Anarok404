@@ -41,7 +41,6 @@ Currently, I'm focused on:
 - Knowledge of ML fundamentals with **Python (NumPy, pandas, scikit-learn)**
 
 ### 🎮 Game & Simulation Dev
-- **Unity Engine (C#):** Beginner level – working on real-time logic, physics, and object interactions
 - **MATLAB Simulink:** Academic modeling for ECE systems
 
 ---
@@ -60,6 +59,8 @@ Currently, I'm focused on:
 
 - 📧 **anmolsxn2005@gmail.com**  
 - 🐙 [GitHub](https://github.com/Anarok404)
+- 👔 [LinkedIn](https://linkedin.com/in/anmolsaxena25)
+
 
 ---
 
