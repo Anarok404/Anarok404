@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anmol Saxena
 
 🎓 B.Tech in Electronics and Communication Engineering | MNNIT Allahabad  
-💡 Full-Stack Engineer | Systems Thinker | AI Enthusiast | Game Dev Learner  
+💡 Full-Stack Engineer | Systems Thinker | AI Enthusiast 
 📍 India | Open to Internships & Developer Roles
 
 ---
@@ -35,12 +35,7 @@ Currently, I'm focused on:
 - **Authentication:** JWT, OAuth2
 - **DevOps & Tools:** Git, VSCode, Postman, MongoDB Compass
 
-### 🧠 AI & Automation
-- NLP and planning automation using **OpenAI APIs**
-- AI-assisted task breakdowns and project roadmap generators
-- Knowledge of ML fundamentals with **Python (NumPy, pandas, scikit-learn)**
-
-### 🎮 Game & Simulation Dev
+## 🎮 Simulation Dev
 - **MATLAB Simulink:** Academic modeling for ECE systems
 
 ---
