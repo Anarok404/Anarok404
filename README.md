@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anmol Saxena
 
 🎓 B.Tech in Electronics and Communication Engineering | MNNIT Allahabad  
-💡 Full-Stack Engineer | Systems Thinker | AI Enthusiast 
+💡 Full-Stack Engineer | Systems Thinker | AI Enthusiast
 📍 India | Open to Internships & Developer Roles
 
 ---
